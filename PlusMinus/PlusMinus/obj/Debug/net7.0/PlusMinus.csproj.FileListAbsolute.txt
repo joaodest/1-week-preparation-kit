@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.exe
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.deps.json
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.runtimeconfig.json
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.dll
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\bin\Debug\net7.0\PlusMinus.pdb
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.AssemblyInfo.cs
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.dll
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\refint\PlusMinus.dll
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.pdb
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\PlusMinus.genruntimeconfig.cache
+C:\Users\joaod\source\repos\One Week PK\PlusMinus\PlusMinus\obj\Debug\net7.0\ref\PlusMinus.dll

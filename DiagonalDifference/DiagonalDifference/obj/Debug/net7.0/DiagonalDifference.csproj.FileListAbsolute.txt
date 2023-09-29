@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\bin\Debug\net7.0\DiagonalDifference.exe
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\bin\Debug\net7.0\DiagonalDifference.deps.json
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\bin\Debug\net7.0\DiagonalDifference.runtimeconfig.json
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\bin\Debug\net7.0\DiagonalDifference.dll
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\bin\Debug\net7.0\DiagonalDifference.pdb
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.dll
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\refint\DiagonalDifference.dll
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.pdb
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\joaod\source\repos\One Week PK\DiagonalDifference\DiagonalDifference\obj\Debug\net7.0\ref\DiagonalDifference.dll

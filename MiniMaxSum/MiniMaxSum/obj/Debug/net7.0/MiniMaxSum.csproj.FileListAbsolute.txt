@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.exe
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.deps.json
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.runtimeconfig.json
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.dll
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.pdb
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.dll
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\refint\MiniMaxSum.dll
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.pdb
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.genruntimeconfig.cache
+C:\Users\joaod\source\repos\One Week PK\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\ref\MiniMaxSum.dll

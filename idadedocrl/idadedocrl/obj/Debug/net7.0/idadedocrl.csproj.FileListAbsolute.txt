@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\bin\Debug\net7.0\idadedocrl.exe
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\bin\Debug\net7.0\idadedocrl.deps.json
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\bin\Debug\net7.0\idadedocrl.runtimeconfig.json
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\bin\Debug\net7.0\idadedocrl.dll
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\bin\Debug\net7.0\idadedocrl.pdb
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.AssemblyInfo.cs
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.dll
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\refint\idadedocrl.dll
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.pdb
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\idadedocrl.genruntimeconfig.cache
+C:\Users\joaod\source\repos\One Week PK\idadedocrl\idadedocrl\obj\Debug\net7.0\ref\idadedocrl.dll
